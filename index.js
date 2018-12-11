@@ -3,7 +3,7 @@ module.exports = {
         'eslint:recommended',
         'airbnb-base',
         'viralize-common'
-    ].map(require.resolve),
+    ],
     rules: {
         'func-names': 'off',
         strict: ['error', 'function'],
