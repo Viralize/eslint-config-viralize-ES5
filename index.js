@@ -9,6 +9,7 @@ module.exports = {
         'no-var': 'off',
         'object-shorthand': 'off',
         'prefer-arrow-callback': 'off',
+        'prefer-destructuring': 'off',
         strict: ['error', 'function'],
         'wrap-iife': ['error', 'inside']
     }
