@@ -10,6 +10,7 @@ module.exports = {
         'object-shorthand': 'off',
         'prefer-arrow-callback': 'off',
         'prefer-destructuring': 'off',
+        'prefer-rest-params': 'off'
         'prefer-template': 'off',
         strict: ['error', 'function'],
         'wrap-iife': ['error', 'inside']
