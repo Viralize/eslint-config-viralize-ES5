@@ -1,5 +1,9 @@
 # Changelog
 
+## 12.0.0
+
+- Update viralize-common rules to version 5.0.3
+
 ## 11.0.0
 
 - fixed configuration issues
