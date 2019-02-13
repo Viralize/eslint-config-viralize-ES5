@@ -1,5 +1,9 @@
 # Changelog
 
+## 13.0.0
+
+- Update viralize-common rules to version 6.0.0
+
 ## 12.0.0
 
 - Update viralize-common rules to version 5.0.3
